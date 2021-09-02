@@ -12,7 +12,6 @@ I hope you enjoy this game. This is my first full featured game (at least with a
 So just keep ROLLING and have fun! Thank you! :D
 
 
-
 ## References
 
 Some references I found useful when developing this game:
